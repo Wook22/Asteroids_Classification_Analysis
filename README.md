@@ -5,6 +5,8 @@ A potentially hazardous asteroid is with an orbit that can make close approaches
 
 https://github.com/Wook22/Asteroids_Classification_Analysis/blob/main/NASA.pdf
 
+## Introduction
+
 This project analyzed the Asteroids - NeoWs dataset to identify factors that could help classify an asteroid as potentially hazardous or not. Near Earth Objects (NEOs) are comets and asteroids that can come close to Earth's orbit, and understanding the factors that could make them hazardous is important for ensuring the safety of our planet.
 
 ## Data Analysis
